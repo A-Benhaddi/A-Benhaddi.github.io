@@ -338,7 +338,7 @@ font-size: 31px;
     text-align: center;
 }
 .button-container{
-height: 68%px;
+height: 50vh;
 width: 80%;
 display: flex;
 justify-content: center;
@@ -677,7 +677,7 @@ body{
         }
 .button-container{
             height: 50vh;
-            width: 20vw;
+            width: 58vw;
             display: flex;
             justify-content: center;
             align-content: center;
